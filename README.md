@@ -1,5 +1,5 @@
 Mes collaborateurs : 
-Diana
+Diana <- c'est moi ! :)
 Feriel
 Melissa
 Julien
