@@ -1,7 +1,7 @@
 Mes collaborateurs : 
 Diana <- c'est moi ! :)
-Feriel
-Melissa
+Feriel 
+Melissa 
 Julien
 Kamelia
 Marie
