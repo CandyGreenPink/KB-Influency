@@ -323,7 +323,7 @@ h4, .h4 {
   font-size: 1.5rem; }
 
 h5, .h5 {
-  font-size: 1.25rem; }
+  font-size: 1.7rem; }
 
 h6, .h6 {
   font-size: 1rem; }
@@ -2037,7 +2037,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #212529;
+  color: white;
   text-align: center;
   vertical-align: middle;
   -webkit-user-select: none;
@@ -2061,7 +2061,7 @@ textarea.form-control {
       -o-transition: none;
       transition: none; } }
   .btn:hover {
-    color: #212529;
+    color: white;
     text-decoration: none; }
   .btn:focus, .btn.focus {
     outline: 0;
@@ -2555,10 +2555,10 @@ input[type="button"].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #212529;
+  color: #6ACB76;
   text-align: left;
   list-style: none;
-  background-color: #fff;
+  background-color: #6ACB76;
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem; }
@@ -8152,10 +8152,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #6AAFCB; }
+  color: white; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #6AAFCB;
+    color: white;
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
