@@ -454,6 +454,7 @@ pre {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+  padding-bottom:1px;
   margin-right: auto;
   margin-left: auto; }
   @media (min-width: 576px) {
@@ -8616,7 +8617,6 @@ h1, h2, h3, h4, h5,
 .ftco-services .services {
   display: block;
   width: 100%;
-  margin-bottom: 40px;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
