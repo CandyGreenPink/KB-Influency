@@ -8490,7 +8490,7 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #B782D9;
+    background: #c4ab9f;
     border: 1px solid #B782D9;
     color: #fff; }
     .btn.btn-primary:hover {
