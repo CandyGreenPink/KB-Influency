@@ -454,7 +454,6 @@ pre {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
-  padding-bottom:1px;
   margin-right: auto;
   margin-left: auto; }
   @media (min-width: 576px) {
@@ -8965,7 +8964,7 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
- padding: 2.5em 0;
+ padding: 1.5em 0;
   position: relative; }
 
 .ftco-bg-dark {
