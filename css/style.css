@@ -8139,6 +8139,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   background: #fff;
+  font-size: 18px;
   font-size: 17px;
   line-height: 1.8;
   font-weight: 300;
@@ -8871,7 +8872,7 @@ h1, h2, h3, h4, h5,
     font-size: 20px;
     margin-bottom: 16px; }
     .blog-entry .text .heading a {
-      color: #000000; }
+      color: #0A203D; }
       .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
         color: #6AAFCB; }
   .blog-entry .text .meta-chat {
