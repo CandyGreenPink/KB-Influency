@@ -8374,7 +8374,7 @@ h1, h2, h3, h4, h5,
     background-position: center center; }
     .hero-wrap .forth .text {
       position: absolute;
-      top: 50%;
+      top: 39%;
       left: 0;
       right: 0;
       max-width: 1140px;
@@ -8391,7 +8391,7 @@ h1, h2, h3, h4, h5,
         color: rgba(255, 255, 255, 0.9); }
       .hero-wrap .forth .text h1 {
         font-weight: 700;
-        font-size: 2.7vw;
+        font-size: 2.9vw;
         color: #fff;
         line-height: 1.1; }
       .hero-wrap .forth .text h2 {
