@@ -6723,7 +6723,8 @@ button.bg-dark:focus {
 
 .pt-3,
 .py-3 {
-  padding-top: 0.5rem !important; }
+  padding-bottom: 1rem !important;
+padding-top: 1rem !important;}
 
 .pr-3,
 .px-3 {
@@ -8607,7 +8608,7 @@ h1, h2, h3, h4, h5,
     padding-top: 18px;
     height: inherit !important; }
   .consult-form .btn-primary {
-    background: #cd866c;
+    background: #6AAFCB;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -ms-border-radius: 0;
@@ -8957,7 +8958,7 @@ textarea.form-control {
   visibility: hidden; }
 
 .bg-primary {
-  background: #000 !important;
+  background: #0A203D !important;
 
 }
 
