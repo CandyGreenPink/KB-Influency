@@ -1,8 +1,8 @@
 Mes collaborateurs : 
-Diana Guzik - didiguzik
-Feriel Hassane - feriel1
-Melissa Harat - CandyGreenPink
-Julien Boussier
-Kamelia Lebnani - kamilialeb
-Marry Diaw
-Soraya Mouelle
+Diana Guzik - didiguzik <br>
+Feriel Hassane - feriel1 <br>
+Melissa Harat - CandyGreenPink <br>
+Julien Boussier <br>
+Kamelia Lebnani - kamilialeb <br>
+Marry Diaw <br>
+Soraya Mouelle <br>
